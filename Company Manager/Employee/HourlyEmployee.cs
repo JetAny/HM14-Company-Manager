@@ -16,12 +16,14 @@ namespace Company_Manager
         }
         public override void Salary(int experience, double _baseSalary)
         {
-            _salary = (_baseSalary/20)* _hours + (_baseSalary * 0.1);
+            _salary = (_baseSalary/20/8)* _hours + (_baseSalary * 0.1);
         }
         public override string ToString()
         {
             return
-                $"{_salary }";
+                $"{_firstName} {_lastName}-{_prof}\n" +
+                $"Опыт работы {_experience} лет\tЗарплата: {_salary}\t" +
+                $"Отработано {_hours} часов";
         }
     }
 }

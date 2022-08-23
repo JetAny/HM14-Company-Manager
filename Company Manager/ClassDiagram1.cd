@@ -1,44 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="Company_Manager.Employee" Collapsed="true">
+  <Class Name="Company_Manager.Employee">
     <Position X="4.5" Y="1" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAEAACAAAAAAAAACAAEAAAAAAAAAAAAAACAQAAQAAAA=</HashCode>
+      <HashCode>AAEAACAAAAAAAAAGAAEAAAAAAAAAAAAAACAQAAQAAAA=</HashCode>
       <FileName>Employee\Employee.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Company_Manager.Executive" Collapsed="true">
+  <Class Name="Company_Manager.Executive">
     <Position X="6.5" Y="3" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAGAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
       <FileName>Employee\Executive.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Company_Manager.HourlyEmployee" Collapsed="true">
-    <Position X="2" Y="2.75" Width="1.5" />
+  <Class Name="Company_Manager.HourlyEmployee">
+    <Position X="0.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAACAAAAAAAAAEAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Employee\HourlyEmployee.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Company_Manager.Manager" Collapsed="true">
-    <Position X="8" Y="1.5" Width="1.5" />
+  <Class Name="Company_Manager.Manager">
+    <Position X="8.5" Y="1" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAGAAAAAIAAAEAACAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
       <FileName>Employee\Manager.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Company_Manager.SalariedEmployee" Collapsed="true">
-    <Position X="4.25" Y="3.5" Width="1.5" />
+  <Class Name="Company_Manager.SalariedEmployee">
+    <Position X="0.5" Y="3" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Employee\SalariedEmployee.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Company_Manager.Company" Collapsed="true">
-    <Position X="9.25" Y="3.75" Width="1.5" />
+  <Class Name="Company_Manager.Company">
+    <Position X="10.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAIAAAAAAAAAAACAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAIAAJAAAAAAAAEAACAAEgAAAAAQAAAAAAAAAAAAAA=</HashCode>
       <FileName>Company.cs</FileName>
     </TypeIdentifier>
   </Class>
